@@ -1,0 +1,77 @@
+
+         // TIME MENTIONED BELOW IS IN MILL_SEC
+
+values of time for num = 1000 
+
+selection sort 
+avg time: 9.474000
+best time: 3.917000
+worst time: 1.389
+
+insertion sort 
+avg time: 2.061000
+best time: 0.011000
+worst time: 1.987
+
+quick sort 
+avg time: 0.227000
+best time: 0.098000
+worst time: 3.298
+
+
+
+values of time for num = 10000 
+
+selection sort 
+avg time: 601.923000
+best time: 317.527000
+worst time: 140.327
+
+insertion sort 
+avg time: 119.248000
+best time: 0.060000
+worst time: 158.946
+
+quick sort 
+avg time: 1.258000
+best time: 0.550000
+worst time: 273.11
+
+
+
+values of time for num = 50000 
+
+selection sort 
+avg time: 9357.119000
+best time: 5620.356000
+worst time: 3467.03
+
+insertion sort 
+avg time: 2610.003000
+best time: 0.237000
+worst time: 3909.6
+
+quick sort 
+avg time: 12.669000
+best time: 5.784000
+worst time: 6761.94
+
+
+
+values of time for num = 100000 
+
+selection sort 
+avg time: 34214.731000
+best time: 22920.051000
+worst time: 14301.4
+
+insertion sort 
+avg time: 10641.989000
+best time: 1.468000
+worst time: 17641
+
+quick sort 
+avg time: 15.158000
+best time: 12.504000
+worst time: 29928.2
+
